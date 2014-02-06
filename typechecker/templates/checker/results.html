@@ -1,0 +1,12 @@
+<h1>Pokemon Type Checker</h1>
+<h2>Team</h2>
+<pre>{{ team_text }}</pre>
+<h2>Pokemon List</h2>
+{% for pokemon in party_list %}
+<p>{{ pokemon.name }} - {{ pokemon.types.0.name }} {{ pokemon.types.1.name }}</p>
+{% endfor %}
+<h2>Max resistances per type</h2>
+<p>The number indicates how well your Pokemon with the best defensive typing does against the type. For example, a 0.5 indicates that you have at least one Pokemon that resists the type. 1.0s are bad and 2.0 mean you seriously messed up.</p>
+{% for resist in max_resists %}
+<p>{{resist.0}} {{resist.1}}</p>
+{% endfor %}

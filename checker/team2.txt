@@ -1,0 +1,53 @@
+Talonflame (M) @ Choice Band
+Ability: Gale Wings
+EVs: 78 HP / 252 Atk / 178 Spd
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Tailwind
+- U-turn
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 232 HP / 56 SAtk / 220 Spd
+Modest Nature
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Deoxys-Speed @ Life Orb
+Ability: Pressure
+EVs: 252 HP / 252 Atk
+Adamant Nature
+- Knock Off
+- Superpower
+- Psycho Boost
+- Taunt
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 SAtk / 252 Spd
+Mild Nature
+- U-turn
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 4 Def / 252 SDef
+Careful Nature
+- Whirlwind
+- Roost
+- Defog
+- Toxic
+
+Hydreigon @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 SAtk / 4 Spd
+Modest Nature
+- Roost
+- Focus Blast
+- Draco Meteor
+- Dark Pulse

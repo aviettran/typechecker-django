@@ -1,0 +1,55 @@
+Mawile @ Mawilite
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spd
+Adamant Nature
+- Play Rough
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- King's Shield
+- Toxic
+- Flash Cannon
+- Substitute
+
+Deoxys-Defense @ Focus Sash
+Ability: Pressure
+EVs: 252 HP / 4 Atk / 252 Spd
+Jolly Nature
+- Taunt
+- Stealth Rock
+- Spikes
+- Knock Off
+
+Thundurus (M) @ Life Orb
+Ability: Prankster
+EVs: 4 Def / 252 SAtk / 252 Spd
+Modest Nature
+- Nasty Plot
+- Thunderbolt
+- Hidden Power [Ice]
+- Focus Blast
+
+Heatran @ Air Balloon
+Ability: Flash Fire
+EVs: 248 HP / 8 Def / 252 SDef
+Calm Nature
+- Fire Blast
+- Earth Power
+- Roar
+- Will-O-Wisp
+
+Latios (M) @ Choice Specs
+Ability: Levitate
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Modest Nature
+- Draco Meteor
+- Surf
+- Psyshock
+- Hidden Power [Fire]
+
+
